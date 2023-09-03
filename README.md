@@ -16,7 +16,7 @@ en scroll daar naar beneden tot je dit ziet:
 
 ![JetBrains Edu.png](Images/JetBrains%20Edu.png )
 
-Klik op de blauwe knop op jezelf te registreren.
+Klik op de blauwe knop om jezelf te registreren.
 
 Vervolgens krijg je een e-mail met een link om je licentie te koppelen aan een JetBrains account.
 
@@ -94,7 +94,11 @@ Voordat we de course kunnen toevoegen in IntelliJ moeten we eerst enrollen voor 
 
 Ga naar https://stepik.org en maak een account aan.
 
-Open deze [invite link](https://stepik.org/invitation/e5b6ee21d873b9acc67e8c437e3f942cfd4dbf59/) om de course te joinen.
+De invite links voor de courses kan je vinden in de Brightspace van programming 1 en 2.
+
+De [invite link](https://stepik.org/invitation/e5b6ee21d873b9acc67e8c437e3f942cfd4dbf59/) van programming 1 staat hier.
+
+Via deze link kan je jezelf enrollen voor de course.
 
 ### Course toevoegen in IntelliJ
 
@@ -106,7 +110,11 @@ Ga naar **Stepik** en selecteer **Open Stepik course by link**.
 
 ![IntelliJ Add Course.png](Images%2FIntelliJ%20Add%20Course.png)
 
-Plak daar de volgende link: https://stepik.org/course/181871 en klik op **Ok**.
+Plak daar de link van de course die je wilt toevoegen.
+
+**programming 1 2023**: https://stepik.org/course/181871
+
+klik op **Ok**.
 
 Vervolgens moet je inloggen met je Stepik account.
 
