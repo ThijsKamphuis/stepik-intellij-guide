@@ -96,7 +96,7 @@ Ga naar https://stepik.org en maak een account aan.
 
 De invite links voor de courses kan je vinden in de Brightspace van programming 1 en 2.
 
-De [invite link](https://stepik.org/invitation/e5b6ee21d873b9acc67e8c437e3f942cfd4dbf59/) van programming 1 staat hier.
+De [invite link](https://brightspace.hhs.nl/d2l/le/lessons/54965/topics/604280) van programming 1 staat hier.
 
 Via deze link kan je jezelf enrollen voor de course.
 
